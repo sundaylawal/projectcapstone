@@ -1,1 +1,1 @@
-# projectcapstone
+# petclinic-project-jenkins
